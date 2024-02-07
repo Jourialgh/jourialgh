@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/6f988165a26f8090cf42b191b2ac08c7.jpg" alt="Banner Image">
+
 <h1 align="center">Hi 👋, I'm Jouri</h1>
 <h3 align="center">Exploring Tech with My Digital Doodles, One Commit at a Time;)</h3>
 
