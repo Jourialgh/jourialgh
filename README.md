@@ -3,6 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jouri-Emad&show_icons=true&theme=transparent&hide_border=true&title_color=1B3A6B&icon_color=1B3A6B&text_color=333333" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jouri-Emad&layout=compact&theme=transparent&hide_border=true&title_color=1B3A6B&text_color=333333" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?usernameJourialgh &show_icons=true&theme=transparent&hide_border=true&title_color=1B3A6B&icon_color=1B3A6B&text_color=333333" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jourialgh&layout=compact&theme=transparent&hide_border=true&title_color=1B3A6B&text_color=333333" alt="Top Languages" height="165"/>
 </p>
