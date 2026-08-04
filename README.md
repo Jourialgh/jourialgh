@@ -1,7 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,24&height=200&section=header&text=Hi%2C%20I'm%20Jouri!%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=1B3A6B&center=true&vCenter=true&width=500&lines=Hey+there%2C+I'm+Jouri+Emad;Software+Engineer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2200&pause=800&color=FFB703&center=true&vCenter=true&width=520&lines=Turning+coffee+into+code+%E2%98%95;git+commit+-m+%22it+works+on+my+machine%22;Probably+debugging+something+right+now+%F0%9F%90%9B;404%3A+sleep+not+found;Powered+by+curiosity+and+snacks+%F0%9F%8D%AA" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jouri-Emad&show_icons=true&theme=transparent&hide_border=true&title_color=1B3A6B&icon_color=1B3A6B&text_color=333333" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jouri-Emad&layout=compact&theme=transparent&hide_border=true&title_color=1B3A6B&text_color=333333" alt="Top Languages" height="165"/>
 </p>
